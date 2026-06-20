@@ -1,0 +1,5 @@
+{
+  "dll": "SchoolCardLib.dll",
+  "entryClass": "SchoolCardLib.Main",
+  "displayName": "流派卡片库"
+}

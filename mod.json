@@ -1,0 +1,7 @@
+{
+  "title": "流派卡片库 (SchoolCardLib)",
+  "description": "前置 Mod - 为其他 Mod 提供幸运卡组扩展功能。允许自定义流派添加到幸运卡组选择界面，解决图标数组越界问题。其他 Mod 可依赖此 Mod 添加自定义流派。",
+  "author": "TOKGOK",
+  "version": "0.1.0",
+  "dependencies": ["00HarmonyLoader"]
+}
